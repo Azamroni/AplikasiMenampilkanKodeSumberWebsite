@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Aplikasi Penampilan  Kode Sumber Wibsite</string>
+    <string-array name="Pilih">
+        <item>Pilih</item>
+        <item>http://</item>
+        <item>https://</item>
+    </string-array>
+</resources>
